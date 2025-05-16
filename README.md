@@ -34,4 +34,6 @@ It’s built for hackers who don't want a polished UI — just raw, fast documen
 Running:
 
 ```bash (available soon)
-chaos new "Fixing Rev's cursed auth bug"
+go run main.go new "your title here"
+
+
